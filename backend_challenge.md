@@ -54,8 +54,8 @@ ID | MERCHANT ID | SHOPPER ID | AMOUNT | CREATED AT           | COMPLETED AT
 * Design, test, develop and document the code. It should be a performant, clean and well structured solution. Then send us a link or a zip with a git repo.
 * You should consider this code ready for production as it were a PR to be reviewed by a colleague. Also commit as if it were a real assignment.
 * Remember you're dealing with money, so you should be careful with related operations.
-* Create a README explaining how to setup and run your solution and a short explanation of your technical choices, tradeoffs, ...
 * You don't need to finish. We value quality over feature-completeness. If you have to leave things aside you can mention them on the README explaining why and how you would resolve them.
 * Your experience level will be taken into consideration when evaluating.
+* Sumit your solution as a private repository, giving us access so we can evaluate
 
 **HAPPY CODING!!**
