@@ -2,14 +2,13 @@
 
 ## Instructions
 * Please read the challenge carefully and if you have any doubt or need extra information, please don't hesitate to ask us before starting.
-* Design, test, develop and document the code. It should be a performant, clean and well structured solution.
 * You should consider this code ready for production as if it were a PR to be reviewed by a colleague. Also use Git commits the same way as you would in your everyday work.
 * You don't need to finish. We value quality over feature-completeness. If you have to leave things aside you can mention them on the README, explaining why and how you would resolve them.
 * Please write a few lines to describe your solution, especially what assumptions you made.
 * Also come up with questions that you would ask if this wasn't an exercise but a real world application. 
 * Remember you're dealing with money, so you should be careful with related operations.
 * Your level of experience will be taken into consideration when evaluating.
-* Submit your solution as a private repository, giving us access so we can evaluate.
+* Submit your solution as a Git repository, giving us access so we can evaluate.
 
 ## Context
 An ecommerce platform provides shops (merchants) a flexible payment method so their customers (shoppers) can purchase and receive goods. 
